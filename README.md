@@ -25,7 +25,7 @@ npm run dev
 
 ## 🌐 Live Demo
 
-[Deploy Link Here]
+[https://react-landing-page-one-flax.vercel.app/]
 
 ## 👤 Author
 
