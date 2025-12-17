@@ -13,10 +13,9 @@ Conversion-focused commercial landing page built with React.
 
 ## 🛠 Technologies
 
-- React
-- JavaScript
-- CSS
-- Vite
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=css,js,react,git,github" />
+</p>
 
 ## ▶️ Run Locally
 
